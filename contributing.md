@@ -1,3 +1,5 @@
 # Contributing
 
-Feel free to throw a pull request up or an issue of any word ideas you think should be here, with or without a definition.
+Did you ever hear something and have to Google it to figure out what people were talking about? This is the perfect place to share those confusing (but common) terms!
+
+Feel free create an issue or a pull request to add to the list!
