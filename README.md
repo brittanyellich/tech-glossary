@@ -2,6 +2,8 @@
 
 This Tech Glossary is a place to collect quirky tech phrases and break them down into plain English.
 
+[Contribution guide](./contributing.md)
+
 ## A
 
 ## B
