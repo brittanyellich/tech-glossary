@@ -1,6 +1,6 @@
 # Tech Glossary
 
-A list of the words that are often repeated throughout tech but don't have obvious meanings.
+This Tech Glossary is a place to collect quirky tech phrases and break them down into plain English.
 
 ## A
 
