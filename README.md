@@ -56,6 +56,13 @@ This Tech Glossary is a place to collect quirky tech phrases and break them down
 
 ## R
 
+### Rubber Duck Debugging
+
+- **Definition**: To explain code to a rubber ducky (or other inanimate object) to help debug or clarify your thought process.
+- **Example**: "Will you be my rubber duck for a second? I need to talk through the logic for my program."
+- **Etymology**: The phrase is a reference to the book *The Pragmatic Programmer*, where a developer debugs their code by explaining it to a rubber duck.
+- [Reference](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+
 ## S
 
 ## T
