@@ -8,6 +8,14 @@ This Tech Glossary is a place to collect quirky tech phrases and break them down
 
 ## B
 
+### Bikeshedding
+
+- **Alternative forms**: Bike-shedding
+- **Definition**: Futile expenditure of time and energy in discussion of marginal technical issues.
+- **Example**: "The team spent two hours arguing about the color scheme of the website footer while ignoring the major security vulnerabilities - a classic case of bikeshedding."
+- **Etymology**: The term was coined as a metaphor to illuminate [Parkinson's Law of Triviality](https://en.wikipedia.org/wiki/Law_of_triviality)
+- [Reference](https://en.wiktionary.org/wiki/bikeshedding)
+
 ## C
 
 ### Can of Worms
